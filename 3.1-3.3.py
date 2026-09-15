@@ -5,3 +5,5 @@ elif minuter < 66:
     print("du bör välja normal")
 else:
     print("du bör välja plus")
+    
+
