@@ -6,4 +6,3 @@ elif minuter < 66:
 else:
     print("du bör välja plus")
     
-
