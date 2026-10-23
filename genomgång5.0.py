@@ -25,3 +25,6 @@ t4 = "spelade \u2665 Ess"
 print(t4)
 
 print(chr(65))
+
+namn = "Elliot axelsson"
+print(namn[::-1])
